@@ -1,4 +1,4 @@
 test
 ====
 
-test.  first repo created
+test.  first repo created  yay!
